@@ -7,11 +7,9 @@
 ### 👋 About Me
 I'm a passionate data enthusiast with a strong foundation in **Data Science**, **Machine Learning**, and **Data Analytics**. I enjoy uncovering meaningful insights from complex datasets and turning data into actionable strategies. My journey in data science has led me to explore diverse projects, from predictive modeling to data visualization.
 
-- 🌱 **Currently Learning**: Deepening my expertise in Python, SQL, and data visualization tools like Power BI and Tableau.
 - 💼 **Experience**: Working as a **Data Science Virtual Intern** at CodSoft, focusing on projects such as **sales prediction** and **movie rating forecasting**. Proficient in **Exploratory Data Analysis (EDA)**, **data preprocessing**, **feature engineering**, and **model optimization**.
 - 💻 **Freelancing**: Open to freelance opportunities, especially in **data analysis**, **model building**, and **visualization projects**.
 - 💞️ **Looking to Collaborate On**: Data-driven projects, predictive modeling, and open-source contributions in **analytics** and **machine learning**.
-- ⚡ **Fun Fact**: I recently achieved a **180 kg deadlift**, inspired by my dedication to fitness and discipline!
 
 ---
 

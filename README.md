@@ -31,4 +31,4 @@ I'm a passionate data enthusiast with a strong foundation in **Data Science**, *
 
 ---
 
-Thanks for visiting! Let’s connect and explore data-driven solutions together. 🚀
+Thanks for visiting! Let’s connect and explore data-driven solutions together.

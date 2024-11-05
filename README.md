@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7591D&width=435&lines=I+am+Girish+Kumar;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
 ### Hi there! 👋 I'm Girish Kumar (@girish119628)
 
 - 👀 **Interests**: I’m passionate about Data Science, Machine Learning, and Data Analytics, with a focus on deriving actionable insights from complex datasets.

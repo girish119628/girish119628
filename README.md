@@ -3,18 +3,21 @@
 </p>
 
 ---
+**AI/ML Engineer & Data Mentor** based in Bengaluru, India.
 
-### 👋 About Me
-I'm a passionate data enthusiast with a strong foundation in **Data Science**, **Machine Learning**, and **Data Analytics**. I enjoy uncovering meaningful insights from complex datasets and turning data into actionable strategies. My journey in data science has led me to explore diverse projects, from predictive modeling to data visualization.
+I build production AI applications and mentor career switchers into Data Analytics and AI/ML.
 
-- 💼 **Experience**: Working as a **Data Science Virtual Intern** at CodSoft, focusing on projects such as **sales prediction** and **movie rating forecasting**. Proficient in **Exploratory Data Analysis (EDA)**, **data preprocessing**, **feature engineering**, and **model optimization**.
-- 💻 **Freelancing**: Open to freelance opportunities, especially in **data analysis**, **model building**, and **visualization projects**.
-- 💞️ **Looking to Collaborate On**: Data-driven projects, predictive modeling, and open-source contributions in **analytics** and **machine learning**.
+## What I work with
+Python · SQL · FastAPI · LLMs & RAG · ChromaDB · sentence-transformers · Power BI · React
+
+## Mentoring
+I help career switchers move into Data Analytics and AI with a project-based path: Excel → SQL → Power BI → Python → ML.
+Free guide: [6-Month Data Analyst Roadmap](https://drive.google.com/file/d/1UkQlTJy5T-4H31Ww3TzeRRAadapM7Yc1/view?usp=drive_link)
 
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gkb6201/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/girish-data-mentor/) 
 [![Email](https://img.shields.io/badge/Email-girish119628@gmail.com-orange?style=flat&logo=gmail)](mailto:girish119628@gmail.com)
 
 ---

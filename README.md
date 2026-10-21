@@ -12,7 +12,7 @@ Python · SQL · FastAPI · LLMs & RAG · ChromaDB · sentence-transformers · P
 
 ## Mentoring
 I help career switchers move into Data Analytics and AI with a project-based path: Excel → SQL → Power BI → Python → ML.
-Free guide: [6-Month Data Analyst Roadmap](https://drive.google.com/file/d/1UkQlTJy5T-4H31Ww3TzeRRAadapM7Yc1/view?usp=drive_link)
+#  Free guide: [6-Month Data Analyst Roadmap](https://drive.google.com/file/d/1UkQlTJy5T-4H31Ww3TzeRRAadapM7Yc1/view?usp=drive_link)
 
 ---
 
